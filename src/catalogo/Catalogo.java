@@ -1,7 +1,12 @@
 
-/*Faider Camilo Trujillo Olaya   20192020136
+/*24/11/2021
+Faider Camilo Trujillo  Olaya 20192020136
 Jonathan Sneyder Ardila Neira  20191007058
 Jonathan Estiben Martinez Malaver 20192020010 
+
+Modelos de Programacion I
+Alejandro Paolo Daza Corredor
+Universidad Distrital Francisco Jose De Caldas 
 */
 
 
